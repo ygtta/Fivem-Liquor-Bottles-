@@ -1,0 +1,116 @@
+config = {}
+
+config.Alcohols = {
+    ["tihulu_beer_nuts"] = {
+        ["model"] = "tihulu_beer_nuts",
+        ["animName"] = "amb@world_human_drinking@coffee@male@base",
+        ["animDict"] = "base", 
+        ["bone"] = 18905,
+        ["canMove"] = true,
+        ["emoteLoop"] = true,
+        ["x"] = 0.15,            --ilerigeri-- 
+        ["y"] = 0.02,            --yukariasa--
+        ["z"] = -0.05,          --aralik--
+        ["xR"] = 290.0,
+        ["yR"] = 40.0,
+        ["zR"] = -5.0,
+    },
+    ["tihulu_clase_azul"] = {
+        ["model"] = "tihulu_clase_azul",
+        ["animName"] = "amb@world_human_drinking@coffee@male@base",
+        ["animDict"] = "base", 
+        ["bone"] = 18905,
+        ["canMove"] = true,
+        ["emoteLoop"] = true,
+        ["x"] = 0.14,            --ilerigeri-- 
+        ["y"] = 0.015,            --yukariasa--
+        ["z"] = -0.028,          --aralik--
+        ["xR"] = 290.0,
+        ["yR"] = 40.0,
+        ["zR"] = -5.0,
+    },
+    ["tihulu_crownroyale"] = {
+        ["model"] = "tihulu_crownroyale",
+        ["animName"] = "amb@world_human_drinking@coffee@male@base",
+        ["animDict"] = "base", 
+        ["bone"] = 18905,
+        ["canMove"] = true,
+        ["emoteLoop"] = true,
+        ["x"] = 0.15,            --ilerigeri-- 
+        ["y"] = 0.03,            --yukariasa--
+        ["z"] = -0.05,          --aralik--
+        ["xR"] = 290.0,
+        ["yR"] = 40.0,
+        ["zR"] = -5.0,
+    },
+    ["tihulu_don1942"] = {
+        ["model"] = "tihulu_don1942",
+        ["animName"] = "amb@world_human_drinking@coffee@male@base",
+        ["animDict"] = "base", 
+        ["bone"] = 18905,
+        ["canMove"] = true,
+        ["emoteLoop"] = true,
+        ["x"] = 0.14,            --ilerigeri-- 
+        ["y"] = 0.015,            --yukariasa--
+        ["z"] = -0.028,          --aralik--
+        ["xR"] = 290.0,
+        ["yR"] = 40.0,
+        ["zR"] = -5.0,
+    },
+    ["tihulu_donyellow"] = {
+        ["model"] = "tihulu_donyellow",
+        ["animName"] = "amb@world_human_drinking@coffee@male@base",
+        ["animDict"] = "base", 
+        ["bone"] = 18905,
+        ["canMove"] = true,
+        ["emoteLoop"] = true,
+        ["x"] = 0.14,            --ilerigeri-- 
+        ["y"] = 0.02,            --yukariasa--
+        ["z"] = -0.01,          --aralik--
+        ["xR"] = 290.0,
+        ["yR"] = 40.0,
+        ["zR"] = -5.0,
+    },
+    ["tihulu_hennesy"] = {
+        ["model"] = "tihulu_hennesy",
+        ["animName"] = "amb@world_human_drinking@coffee@male@base",
+        ["animDict"] = "base", 
+        ["bone"] = 18905,
+        ["canMove"] = true,
+        ["emoteLoop"] = true,
+        ["x"] = 0.15,            --ilerigeri-- 
+        ["y"] = 0.04,            --yukariasa--
+        ["z"] = -0.04,          --aralik--
+        ["xR"] = 290.0,
+        ["yR"] = 40.0,
+        ["zR"] = -5.0,
+    },
+    ["tihulu_liquid"] = {
+        ["model"] = "tihulu_liquid",
+        ["animName"] = "amb@world_human_drinking@coffee@male@base",
+        ["animDict"] = "base", 
+        ["bone"] = 18905,
+        ["canMove"] = true,
+        ["emoteLoop"] = true,
+        ["x"] = 0.14,            --ilerigeri-- 
+        ["y"] = 0.015,            --yukariasa--
+        ["z"] = -0.028,          --aralik--
+        ["xR"] = 290.0,
+        ["yR"] = 40.0,
+        ["zR"] = -5.0,
+    },
+    ["tihulu_patron"] = {
+        ["model"] = "tihulu_patron",
+        ["animName"] = "amb@world_human_drinking@coffee@male@base",
+        ["animDict"] = "base", 
+        ["bone"] = 18905,
+        ["canMove"] = true,
+        ["emoteLoop"] = true,
+        ["x"] = 0.14,            --ilerigeri-- 
+        ["y"] = 0.01,            --yukariasa--
+        ["z"] = -0.06,          --aralik--
+        ["xR"] = 290.0,
+        ["yR"] = 40.0,
+        ["zR"] = -5.0,        
+    },
+}
